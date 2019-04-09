@@ -12,6 +12,8 @@ end
 
 #at this point, I got a no block given (yield) error on repl
 
+#people using the function
 my_each(collection) do |i|
   puts i
 end
+
